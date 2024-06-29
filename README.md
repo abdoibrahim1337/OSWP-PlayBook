@@ -1,2 +1,2 @@
 # OSWP-PlayBook
-A PlayBook for OSWP Exam & Wireless Pentest 
+A PlayBook for OSWP & Wireless Pentest 
