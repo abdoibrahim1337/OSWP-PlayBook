@@ -1,4 +1,4 @@
-# OSWP-PlayBook V1
+# OSWP-PlayBook V2
 A PlayBook for OSWP & Wireless Pentest 
 
 # Table of Contents
