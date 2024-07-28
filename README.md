@@ -38,7 +38,7 @@ A PlayBook for OSWP & Wireless Pentest
 | Linkedin | [Abdulrahman](https://www.linkedin.com/in/abdulrahman-i-mahmoud/) | [Zeyad](https://www.linkedin.com/in/zer0verflow/) |
 | Twitter/X | [Abdulrahman](https://x.com/Abdulrahma77977) | [Zeyad](https://x.com/AzimaZeyad) |
 | Website |     | [Zeyad](https://zeyadazima.com) |
-| Email | [0xexploiteagle@gmail.com](mailto:0xexploiteagle@gmail.com) | [contact@zeyadazima.com](mailto:contact@zeyadazima.com) |
+| Email | [exploit.eagle1337@gmail.com](mailto:exploit.eagle1337@gmail.com) | [contact@zeyadazima.com](mailto:contact@zeyadazima.com) |
 
 ## Follow The PlayBook Updates
 - [https://github.com/abdoibrahim1337/OSWP-PlayBook](https://github.com/abdoibrahim1337/OSWP-PlayBook)
